@@ -1,3 +1,6 @@
+/* Move the import to the top of the file */
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css');
+
 #root {
   max-width: 1280px;
   margin: 0 auto;
@@ -535,6 +538,3 @@
     width: 35px;
   }
 }
-
-/* Add Font Awesome to your HTML file */
-@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css');
